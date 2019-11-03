@@ -52,24 +52,26 @@
 
 
 ### 3 most critical bugs in current functionality (optional)
-
-
-
+ * *Some details and functionalities are lost in our current use cases*
+ * *Organization of the whole model is not good and clear for clients*
+    
 
 ### Contribution statement
 
 * *Bai, Xiao Ou:*
-   * *</br>*
+   * *Revised the use case for playing andor*
+   * *Revised langauge use of the use case to make it clear*
 * *Ding, Yizhong:*
-  * *</br>*
+  * *Revised the use case for fighting *
 * *Duma, Isidora:*
-   * *</br>*
+   * *Revised the use case for playing andor*
 * *Kim, Geoffrey Taerim:* 
-   * *</br>*
+   * *Revised the use case for fighting*
 * *Xu, Jianing:*
-   * *</br>*
+   * *Revised the use case for free actions and event cards*
+   * *Add move to the use case*
 * *Zhang, Yong:*
-   * *</br>*
+   * *revised the use case for communication and event cards*
 ### Team mood
-
-
+   * *We are looking forward to do next milestone better!*
+   * *Everyone is willing to contribute!*
