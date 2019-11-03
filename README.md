@@ -40,9 +40,9 @@
 
 
 ### Top 3 unexpected challenges encountered since last report
- * *Having meetings during midterm season was very challenging for all team members *
- * *Figuring out why we lost points for M2 *
- * *Re-divided the tasks based on new materials we learned this week *
+ * *Having meetings during midterm season was very challenging for all team members*
+ * *Figuring out why we lost points for M2*
+ * *Re-divided the tasks based on new materials we learned this week*
 
 ### Top 3 lessons learned since last report
  * *Learned more about requirements and game architecture*
