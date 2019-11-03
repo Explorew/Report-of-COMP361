@@ -20,17 +20,23 @@
 ### 3 most outstanding tasks scheduled until the next report, per team member
 
  * *Bai, Xiao Ou*
-     * *All of Owen's tasks have been completed*
+     * *Fully revise the use case*
+     * *start model on the game requirements*
  * *Ding, Yizhong*
-     * *All of YZ's tasks have been completed*
+     * *Fully revise the use case*
+     * *start model on the game requirements*
  * *Duma, Isidora*
-     * *All of Isidora's tasks have been completed*
+     * *Fully revise the use case*
+     * *start model on the game requirements*
  * *Kim, Geoffrey Taerim*
-     * *All of Geoffrey's tasks have been completed*
+     * *Fully revise the use case*
+     * *start model on the game requirements*
  * *Xu, Jianing*
-    * *All of Mandy's tasks have been completed*
+    * *Fully revise the use case*
+    * *start model on the game requirements*
  * *Zhang, Yong*
-    * *All of Leo's tasks have been completed*
+    * *Fully revise the use case*
+    * *start model on the game requirements*
   
  
 
@@ -62,7 +68,7 @@
    * *Revised the use case for playing andor*
    * *Revised langauge use of the use case to make it clear*
 * *Ding, Yizhong:*
-  * *Revised the use case for fighting *
+  * *Revised the use case for fighting*
 * *Duma, Isidora:*
    * *Revised the use case for playing andor*
 * *Kim, Geoffrey Taerim:* 
